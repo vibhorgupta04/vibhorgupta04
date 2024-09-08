@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Vibhor!
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 I’m a Full Stack Developer passionate about building modern web applications and delivering impactful digital solutions.
 
@@ -14,6 +15,22 @@ I’m a Full Stack Developer passionate about building modern web applications a
 - **Databases**: MongoDB, MySQL
 - **Version Control**: Git, GitHub
 - **Others**: HTML, CSS, Docker
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="55" height="55"/>
+</p>
+
+## My Github Stats 
+<a href="https://github.com/vibhorgupta04/vibhorgupta04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhorgupta04&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gruvbox" />
+</a>
+<a href="https://github.com/vibhorgupta04/vibhorgupta04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhorgupta04&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gruvbox" alt="Aastha's GitHub Stats" />
+</a>
 
 ## 📫 How to Reach Me
 - Email: vibhorgupta04@gmail.com
