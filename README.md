@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Vibhor!
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb" width="230">
 
 I’m a Full Stack Developer passionate about building modern web applications and delivering impactful digital solutions.
 
