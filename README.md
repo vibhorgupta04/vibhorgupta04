@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Vibhor!
 
-<!--
-**vibhorgupta04/vibhorgupta04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Developer passionate about building modern web applications and delivering impactful digital solutions.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💻 I specialize in **React**, **Next.js**, **Node.js**, and **Express.js**.
+- 📊 I work with databases such as **MongoDB** and **MySQL** to ensure efficient data management.
+- 🛠️ Proficient in **JavaScript** and **TypeScript**, enabling robust, maintainable codebases.
+- 🎯 I enjoy working on both **client-side** and **server-side** to create seamless end-to-end experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Frontend**: React.js, Next.js, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js, REST APIs
+- **Databases**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+- **Others**: HTML, CSS, Docker
+
+## 📫 How to Reach Me
+- Email: vibhorgupta04@gmail.com
+- LinkedIn: [vibhor-dev]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vibhor-dev/))
