@@ -32,5 +32,5 @@ I’m a Full Stack Developer passionate about building modern web applications a
 </a>
 
 ## 📫 How to Reach Me
-- Email: vibhorgupta04@gmail.com
-- LinkedIn: [vibhor-dev]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vibhor-dev/))
+- Email: guptavibhor.dev@gmail.com
+- LinkedIn: [devvibhorgupta]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/devvibhorgupta/))
